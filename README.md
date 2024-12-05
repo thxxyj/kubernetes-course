@@ -2,6 +2,8 @@
 
 This repo contains the source code for the kubernetes course.
 
+https://vins-udemy.s3.amazonaws.com/k8s/k8s-commands.pdf
+
 ![Learn Kubernetes From Scratch](.doc/k8s.png)
 
 ## Cloud Native Application Development Series 
